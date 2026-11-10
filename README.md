@@ -11,6 +11,9 @@
 | `jmdict-ja-ru.zip` | японский | значения на русском, чтения | JMdict (EDRDG), формат Yomitan — yomidevs/jmdict-yomitan | CC BY-SA 4.0 |
 | `jmdict-ja-en.zip` | японский | значения на английском, чтения | JMdict (EDRDG), формат Yomitan — yomidevs/jmdict-yomitan | CC BY-SA 4.0 |
 
+`jmdict-ja-en.zip` (15 МБ) в этом релизе не лежит: `catalog.json` ссылает на тот же файл в релизе
+yomidevs/jmdict-yomitan, закреплённый по дате, с проверкой SHA-256.
+
 Словари Викисловаря — формат StarDict, словоформы (ging → gehen, yeux → œil) в `.syn` из обоих Викисловарей.
 
 ## Авторство и лицензии
